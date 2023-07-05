@@ -1,0 +1,550 @@
+﻿Team1,Team1_Batters,Team1_Allrounders,Team1_Bowlers,Team1_RH_Bat,Team1_LH_Bat,Team1_Fast,Team1_Spin
+Australia,4,5,2,6,5,7,4
+South Africa,3,4,4,6,5,6,4
+Pakistan,5,3,3,10,1,3,8
+England,5,2,4,9,2,6,4
+England,5,2,4,9,2,6,4
+South Africa,3,5,3,8,3,7,3
+West Indies,3,7,1,9,2,6,4
+Sri Lanka,5,3,3,8,3,6,5
+Pakistan,4,4,3,10,1,3,7
+West Indies,3,6,2,9,2,5,4
+West Indies,4,5,2,9,2,5,4
+India,7,2,2,8,3,6,5
+Australia,5,4,2,6,5,7,4
+New Zealand,5,3,3,7,4,4,5
+England,6,1,4,8,3,7,3
+India,7,2,2,7,4,5,6
+New Zealand,5,3,3,8,3,4,5
+England,6,1,4,9,2,7,3
+South Africa,4,5,2,8,3,7,3
+Pakistan,4,4,3,9,2,3,6
+India,6,2,3,6,5,5,6
+West Indies,3,6,2,8,3,5,4
+Sri Lanka,4,4,3,6,5,6,5
+Pakistan,4,4,3,10,1,2,7
+India,7,2,2,7,4,5,6
+Sri Lanka,4,3,4,6,5,6,5
+West Indies,3,6,2,8,3,5,4
+West Indies,3,6,2,8,3,5,4
+West Indies,4,6,1,8,3,8,3
+South Africa,4,3,4,6,5,5,5
+India,7,1,3,8,3,6,5
+Sri Lanka,4,4,3,7,4,5,5
+England,6,2,3,7,4,8,2
+New Zealand,5,2,4,7,4,6,4
+West Indies,4,6,1,7,4,7,3
+Pakistan,4,3,4,10,1,3,6
+Sri Lanka,4,4,3,7,4,5,5
+New Zealand,5,2,4,4,7,6,4
+Pakistan,5,2,4,8,3,4,7
+South Africa,5,2,4,6,5,6,4
+South Africa,5,2,4,6,5,6,4
+Australia,5,3,3,6,5,6,5
+England,6,1,4,8,3,8,2
+New Zealand,6,1,4,5,6,6,4
+South Africa,6,1,4,7,4,6,3
+South Africa,5,1,5,6,5,5,4
+Pakistan,5,2,4,8,3,4,6
+Sri Lanka,5,3,3,7,4,5,5
+New Zealand,5,3,3,7,4,6,3
+Australia,5,4,2,9,2,6,5
+Australia,5,4,2,9,2,6,5
+Sri Lanka,4,3,4,8,3,4,6
+West Indies,3,6,2,8,3,6,4
+England,4,4,3,6,5,7,3
+Sri Lanka,5,2,4,8,3,5,5
+Pakistan,4,3,4,11,0,2,8
+South Africa,5,2,4,6,5,5,4
+West Indies,3,6,2,8,3,6,4
+South Africa,4,3,4,5,6,6,3
+Pakistan,4,3,4,10,1,2,8
+India,6,2,3,8,3,5,6
+Sri Lanka,5,2,4,6,5,6,4
+West Indies,3,6,2,8,3,6,4
+Sri Lanka,5,2,4,7,4,5,5
+Sri Lanka,5,2,4,7,4,6,4
+West Indies,4,5,2,9,2,7,2
+England,5,4,2,8,3,6,3
+New Zealand,6,2,3,7,4,5,5
+South Africa,3,4,4,8,3,5,6
+England,6,2,3,8,3,7,2
+South Africa,5,2,4,5,6,5,5
+South Africa,5,2,4,6,5,4,6
+Pakistan,4,4,3,9,2,3,7
+New Zealand,5,2,4,7,4,6,4
+England,5,3,3,7,4,6,2
+Sri Lanka,4,3,4,8,3,5,5
+West Indies,4,5,2,9,2,6,2
+England,5,1,5,9,2,6,3
+England,6,2,3,10,1,5,3
+New Zealand,5,2,4,8,3,6,4
+Pakistan,4,4,3,9,2,3,8
+New Zealand,5,3,3,7,4,6,4
+India,6,3,2,7,4,5,6
+India,6,3,2,7,4,5,6
+India,6,3,2,7,4,5,6
+India,6,3,2,7,4,5,6
+India,4,3,4,9,2,4,7
+Bangladesh,5,2,4,7,4,5,3
+New Zealand,5,3,3,8,3,4,6
+Pakistan,4,4,3,8,3,3,8
+New Zealand,5,3,3,7,4,5,5
+South Africa,5,3,3,7,4,5,4
+New Zealand,5,3,3,7,4,5,5
+England,5,3,3,7,4,6,3
+India,6,3,2,7,4,5,6
+Australia,5,4,2,8,3,5,5
+New Zealand,5,3,3,6,5,4,6
+England,5,3,3,7,4,6,3
+Afghanistan,5,5,1,10,1,3,5
+West Indies,5,5,1,9,2,5,3
+Australia,5,3,3,7,4,6,4
+Pakistan,5,3,3,7,4,3,8
+New Zealand,4,4,3,7,4,6,4
+New Zealand,4,4,3,7,4,6,5
+South Africa,4,3,4,8,3,5,4
+India,6,1,4,9,2,6,4
+India,6,1,4,8,3,5,4
+South Africa,4,4,3,7,4,6,3
+Australia,5,2,3,9,2,5,5
+Pakistan,5,3,3,8,3,3,7
+Bangladesh,5,4,2,6,5,4,6
+West Indies,6,2,3,9,2,5,4
+South Africa,4,4,3,8,3,6,4
+England,5,3,3,9,2,5,3
+West Indies,4,4,3,8,3,5,4
+South Africa,4,4,3,6,5,6,3
+South Africa,4,5,2,7,4,6,3
+Pakistan,4,5,2,6,5,4,7
+India,5,2,4,9,2,6,5
+New Zealand,6,2,3,8,3,4,7
+India,6,1,4,9,2,6,5
+India,6,1,4,10,1,5,5
+India,6,1,4,10,1,5,5
+New Zealand,6,1,4,9,2,4,7
+New Zealand,6,1,4,9,2,4,7
+Pakistan,6,2,3,6,5,5,6
+Pakistan,6,3,2,6,5,5,6
+New Zealand,5,3,3,8,3,4,6
+England,6,3,2,8,3,5,3
+Sri Lanka,3,6,2,6,5,4,6
+India,6,1,4,9,2,7,4
+India,6,2,3,8,3,6,5
+India,6,2,3,8,3,4,6
+Pakistan,4,5,2,6,5,4,7
+Pakistan,4,5,2,6,5,4,7
+Afghanistan,5,4,2,9,2,3,5
+Afghanistan,5,4,2,10,1,3,5
+England,6,2,3,8,3,6,3
+Pakistan,4,4,3,5,6,5,6
+Bangladesh,5,3,3,6,5,4,3
+Bangladesh,5,3,3,6,5,4,3
+Pakistan,4,5,2,6,5,4,7
+Pakistan,4,5,2,7,4,3,8
+England,5,3,3,8,3,6,3
+Pakistan,4,5,2,9,2,3,7
+Pakistan,4,5,2,8,3,3,7
+Pakistan,4,5,2,7,4,3,8
+India,6,1,4,7,4,4,5
+South Africa,5,3,3,7,4,5,5
+Australia,5,2,4,8,3,5,5
+Bangladesh,4,5,2,6,5,4,4
+West Indies,6,3,2,6,5,6,2
+New Zealand,5,2,4,8,3,5,5
+South Africa,6,2,3,7,4,4,7
+South Africa,5,2,4,8,3,5,6
+New Zealand,4,4,3,9,2,6,4
+Pakistan,4,5,2,5,6,4,6
+New Zealand,4,4,3,9,2,6,4
+England,6,2,3,9,2,7,3
+South Africa,5,3,3,9,2,4,6
+South Africa,4,4,3,8,3,5,5
+India,5,3,3,6,5,5,5
+Sri Lanka,3,6,2,7,4,5,4
+Afghanistan,5,4,2,8,3,4,6
+Sri Lanka,3,5,3,7,4,6,4
+Sri Lanka,3,5,3,7,4,6,4
+Sri Lanka,3,5,3,8,3,5,5
+Australia,5,1,5,7,4,3,7
+New Zealand,4,4,3,8,3,6,4
+New Zealand,4,3,4,8,3,6,4
+England,5,3,3,8,3,7,2
+India,6,2,3,7,4,4,5
+West Indies,5,3,3,7,4,5,2
+Afghanistan,5,4,2,9,2,5,5
+Afghanistan,5,4,2,9,2,5,5
+India,5,2,4,7,4,5,4
+India,6,1,4,9,2,5,4
+India,5,2,4,9,2,5,4
+South Africa,4,3,4,7,4,6,4
+England,5,3,3,8,3,6,3
+Australia,5,1,5,6,5,5,5
+South Africa,6,1,4,8,3,5,5
+Australia,5,1,5,6,5,5,5
+West Indies,5,4,2,8,3,7,2
+Pakistan,4,4,3,8,3,3,7
+England,5,2,4,8,3,6,3
+New Zealand,5,2,4,8,3,5,5
+India,5,3,3,7,4,6,3
+Australia,4,4,3,9,2,5,6
+Pakistan,5,3,3,5,6,4,5
+New Zealand,5,2,4,8,3,5,5
+New Zealand,5,2,4,8,3,5,5
+Australia,3,3,5,9,2,6,4
+Australia,3,3,5,9,2,6,4
+Sri Lanka,4,5,2,7,4,3,6
+India,6,2,3,9,2,4,4
+India,5,2,4,8,3,5,4
+New Zealand,5,2,4,8,3,5,5
+New Zealand,5,2,4,8,3,5,5
+New Zealand,5,2,4,9,2,5,5
+England,4,5,2,6,5,6,4
+South Africa,6,1,4,7,4,4,6
+South Africa,6,1,4,7,4,4,6
+West Indies,4,5,2,6,5,6,3
+South Africa,5,2,4,7,4,4,6
+West Indies,4,4,3,5,6,5,4
+West Indies,4,4,3,7,4,5,4
+Australia,4,3,4,8,3,7,3
+Pakistan,5,3,3,8,3,3,6
+West Indies,5,3,3,5,6,5,4
+England,4,3,4,9,2,4,5
+India,5,2,4,8,3,3,5
+Pakistan,5,3,3,7,4,3,7
+Bangladesh,3,5,3,3,8,3,6
+Bangladesh,3,5,3,3,8,3,6
+Bangladesh,4,5,2,4,7,3,6
+Bangladesh,4,5,2,5,6,2,6
+New Zealand,5,4,2,7,4,4,6
+New Zealand,4,4,3,7,4,5,5
+South Africa,5,1,5,8,3,3,7
+West Indies,3,6,2,5,6,5,4
+England,5,3,3,8,3,5,4
+India,5,3,3,9,2,5,3
+Sri Lanka,4,4,3,8,3,6,3
+South Africa,6,1,4,8,3,4,6
+India,5,2,4,7,4,4,4
+Pakistan,6,3,2,8,3,3,6
+Pakistan,6,3,2,8,3,3,6
+England,5,2,4,9,2,5,3
+West Indies,5,4,2,8,3,6,3
+England,5,2,4,10,1,4,4
+West Indies,3,6,2,8,3,7,3
+Australia,5,2,4,8,3,6,4
+India,5,1,5,8,3,5,3
+India,5,1,5,9,2,5,4
+India,4,3,4,8,3,4,5
+Bangladesh,4,4,3,5,6,3,7
+India,5,2,4,8,3,4,5
+India,5,2,4,8,3,4,5
+West Indies,4,4,3,6,5,6,4
+India,4,3,4,8,3,4,5
+India,5,2,4,9,2,5,4
+England,5,3,3,8,3,5,4
+England,4,3,4,8,3,5,4
+South Africa,6,1,4,6,5,3,7
+India,5,3,3,8,3,3,6
+South Africa,6,1,4,7,4,3,7
+India,5,2,4,8,3,3,5
+India,4,3,4,7,4,3,6
+New Zealand,4,3,4,8,3,6,5
+New Zealand,5,3,3,7,4,5,6
+India,5,3,3,8,3,4,4
+Sri Lanka,3,5,3,9,2,5,5
+England,5,3,3,7,4,4,7
+Pakistan,6,2,3,7,4,4,6
+Pakistan,6,4,1,9,2,4,5
+India,6,2,3,8,3,4,4
+England,5,4,2,6,5,6,5
+South Africa,6,1,4,6,5,5,5
+Pakistan,6,3,2,9,2,4,5
+Australia,5,2,4,7,4,5,6
+England,4,4,3,7,4,7,3
+New Zealand,5,2,4,7,4,5,5
+England,4,4,3,6,5,7,3
+New Zealand,4,3,4,7,4,5,5
+South Africa,6,0,5,6,5,4,6
+New Zealand,4,3,4,8,3,6,4
+England,4,5,2,7,4,6,4
+India,5,3,3,9,2,5,4
+Pakistan,5,3,3,8,3,5,5
+Australia,3,4,4,8,3,7,4
+India,4,3,4,7,4,4,4
+India,6,2,3,8,3,4,7
+New Zealand,4,2,5,9,2,5,4
+South Africa,3,4,4,7,4,7,3
+Australia,4,3,4,6,5,8,3
+England,5,2,4,9,2,7,3
+Pakistan,4,3,4,9,2,3,6
+South Africa,3,5,3,8,3,6,5
+Australia,5,4,2,6,5,7,4
+Pakistan,4,4,3,9,2,3,6
+Pakistan,4,4,3,10,1,2,7
+Australia,5,4,2,6,5,7,4
+England,6,1,4,9,2,7,3
+Sri Lanka,4,3,4,6,5,6,5
+Australia,5,3,3,5,6,6,5
+India,7,2,2,7,4,5,6
+India,6,3,2,6,5,5,6
+South Africa,5,3,3,7,4,7,3
+England,6,3,2,8,3,7,3
+New Zealand,4,3,4,5,6,6,3
+Pakistan,4,3,4,9,2,3,6
+Sri Lanka,5,3,3,7,4,6,4
+England,7,1,3,7,4,8,2
+Pakistan,5,2,4,9,2,4,6
+Sri Lanka,5,2,4,8,3,6,4
+India,6,2,3,7,4,5,6
+South Africa,5,2,4,6,5,5,4
+Sri Lanka,6,2,3,7,4,5,5
+Pakistan,5,2,4,8,3,4,7
+Pakistan,5,2,4,8,3,4,7
+New Zealand,5,3,3,6,5,6,3
+Australia,6,2,3,8,3,5,6
+Sri Lanka,4,3,4,8,3,4,6
+West Indies,3,5,3,8,3,7,3
+Australia,5,5,1,8,3,5,5
+Australia,5,5,1,9,2,5,5
+Bangladesh,4,4,3,8,3,3,5
+India,6,2,3,7,4,4,7
+New Zealand,6,1,4,8,3,5,4
+India,6,2,3,7,4,4,7
+England,4,4,3,6,5,8,2
+West Indies,3,6,2,8,3,6,4
+India,6,2,3,7,4,4,7
+Australia,5,4,2,8,3,6,4
+India,6,2,3,8,3,5,6
+Sri Lanka,5,2,4,6,5,6,4
+New Zealand,6,2,3,8,3,5,3
+Australia,5,3,3,8,3,4,5
+South Africa,4,3,4,4,7,5,5
+Australia,4,4,3,8,3,6,5
+Australia,4,4,3,8,3,5,6
+Pakistan,4,3,4,8,3,3,8
+West Indies,2,7,2,10,1,7,3
+West Indies,2,7,2,9,2,7,3
+Bangladesh,4,3,4,5,6,4,5
+Pakistan,4,4,3,9,2,3,7
+South Africa,5,2,4,7,4,6,4
+South Africa,4,3,4,8,3,6,4
+South Africa,4,4,3,7,4,6,4
+New Zealand,5,3,3,7,4,6,4
+New Zealand,5,3,3,7,4,5,5
+India,6,3,2,7,4,5,6
+Sri Lanka,3,5,3,7,4,5,5
+India,6,3,2,7,4,5,6
+South Africa,5,3,3,7,4,5,5
+South Africa,5,3,3,7,4,5,5
+India,6,3,2,7,4,5,6
+Bangladesh,5,2,4,6,5,4,4
+Pakistan,4,4,3,8,3,3,8
+South Africa,5,3,3,6,5,5,5
+Australia,4,5,2,8,3,5,5
+India,6,3,2,7,4,5,6
+Australia,4,6,1,9,2,6,4
+West Indies,3,5,3,9,2,5,4
+Sri Lanka,4,4,3,6,5,6,5
+England,5,3,3,7,4,6,3
+India,6,3,2,7,4,5,6
+West Indies,4,5,2,9,2,4,4
+Australia,4,6,1,9,2,6,4
+West Indies,4,5,2,9,2,4,4
+India,6,3,2,7,4,5,6
+South Africa,5,2,4,9,2,5,4
+England,5,3,3,7,4,6,3
+West Indies,4,5,2,9,2,5,4
+West Indies,4,5,2,9,2,5,4
+England,6,1,4,10,1,6,2
+Pakistan,5,2,4,7,4,4,6
+Australia,5,4,2,6,5,6,4
+Pakistan,5,3,3,7,4,3,8
+Pakistan,5,3,3,6,5,3,8
+New Zealand,5,3,3,8,3,7,3
+Sri Lanka,4,5,2,9,2,5,5
+Sri Lanka,5,4,2,8,3,4,5
+England,5,2,4,8,3,5,3
+Sri Lanka,5,2,4,8,3,5,4
+Sri Lanka,6,2,3,8,3,5,4
+Pakistan,4,4,3,9,2,3,7
+West Indies,5,4,2,9,2,5,4
+Pakistan,5,3,3,9,2,3,7
+Sri Lanka,5,3,3,7,4,6,3
+West Indies,6,2,3,9,2,5,4
+West Indies,6,2,3,9,2,5,4
+England,6,2,3,9,2,6,2
+West Indies,4,4,3,8,3,5,4
+India,5,2,4,9,2,5,5
+India,5,2,4,9,2,6,5
+Australia,4,4,3,9,2,6,5
+Pakistan,4,5,2,8,3,3,8
+Pakistan,4,5,2,8,3,3,8
+India,6,2,3,9,2,5,5
+New Zealand,6,2,3,9,2,4,7
+Australia,4,2,5,6,5,4,6
+Australia,5,2,4,5,6,4,6
+Australia,5,2,4,6,5,4,6
+Sri Lanka,4,6,1,5,6,4,5
+Australia,5,2,4,6,5,4,6
+Australia,5,2,4,6,5,4,6
+South Africa,3,5,3,8,3,5,6
+Sri Lanka,4,5,2,5,6,4,5
+India,6,2,3,7,4,4,6
+Bangladesh,5,2,4,6,5,4,5
+India,6,2,3,8,3,4,6
+Bangladesh,5,3,3,6,5,3,6
+India,6,2,3,8,3,4,6
+Pakistan,4,5,2,6,5,4,7
+Afghanistan,5,4,2,9,2,3,5
+Australia,5,2,4,5,6,4,6
+India,6,1,4,8,3,5,5
+England,6,1,4,9,2,7,2
+Pakistan,4,4,3,6,5,5,5
+India,6,1,4,9,2,6,4
+West Indies,5,3,3,10,1,4,3
+Sri Lanka,3,6,2,8,3,5,5
+Pakistan,4,5,2,7,4,3,8
+India,6,1,4,7,4,4,5
+India,6,2,3,7,4,3,6
+India,6,1,4,7,4,4,5
+West Indies,6,3,2,6,5,6,2
+India,5,3,3,8,3,5,5
+Australia,4,3,4,10,1,5,5
+Australia,4,3,4,10,1,5,5
+England,6,2,3,9,2,7,3
+England,6,2,3,9,2,7,3
+England,6,2,3,8,3,6,4
+India,5,3,3,6,5,5,5
+India,5,2,4,7,4,5,4
+New Zealand,4,4,3,9,2,6,4
+New Zealand,4,4,3,9,2,6,4
+India,5,4,2,6,5,4,6
+Bangladesh,5,4,2,6,5,3,7
+South Africa,5,2,4,6,5,5,5
+Australia,5,1,5,7,4,3,7
+England,5,3,3,8,3,8,2
+Australia,6,0,5,7,4,4,6
+Bangladesh,5,3,3,7,4,4,5
+Australia,6,0,5,7,4,4,6
+India,5,3,3,6,5,3,6
+Australia,6,1,4,6,5,5,5
+India,5,3,3,7,4,4,5
+West Indies,5,3,3,6,5,5,3
+India,5,2,4,6,5,5,4
+India,5,2,4,9,2,6,4
+Pakistan,4,4,3,9,2,3,7
+Pakistan,4,4,3,9,2,3,7
+India,5,2,4,9,2,6,4
+England,5,3,3,7,4,6,3
+West Indies,5,4,2,8,3,7,2
+England,5,3,3,8,3,6,3
+England,5,2,4,8,3,6,3
+Australia,3,3,5,7,4,6,5
+New Zealand,5,2,4,7,4,6,4
+England,5,3,3,7,4,7,2
+England,5,3,3,7,4,7,2
+England,5,3,3,7,4,7,2
+India,5,2,4,8,3,5,4
+New Zealand,4,4,3,7,4,5,5
+New Zealand,5,2,4,9,2,6,4
+Pakistan,4,4,3,7,4,5,4
+South Africa,5,3,3,9,2,5,6
+Pakistan,4,3,4,6,5,4,5
+West Indies,3,5,3,7,4,6,4
+New Zealand,5,3,3,7,4,4,6
+West Indies,4,5,2,7,4,6,4
+England,5,2,4,7,4,7,2
+India,6,2,3,8,3,4,3
+England,5,2,4,7,4,7,2
+Pakistan,4,3,4,6,5,4,5
+South Africa,5,2,4,6,5,5,6
+Pakistan,5,3,3,7,4,4,5
+Pakistan,5,3,3,7,4,4,5
+England,5,3,3,8,3,6,3
+England,5,3,3,7,4,6,3
+West Indies,3,6,2,7,4,5,4
+West Indies,4,4,3,6,5,5,4
+England,5,3,3,7,4,5,4
+Sri Lanka,3,7,1,9,2,5,4
+Sri Lanka,4,6,1,9,2,4,4
+Bangladesh,3,5,3,3,8,3,6
+Australia,4,3,4,7,4,7,3
+Bangladesh,4,5,2,5,6,2,6
+Bangladesh,4,5,2,5,6,2,6
+South Africa,5,1,5,9,2,3,7
+South Africa,5,2,4,9,2,3,7
+Australia,4,3,4,7,4,6,5
+England,5,3,3,8,3,5,4
+Sri Lanka,4,4,3,7,4,7,2
+Pakistan,4,4,3,8,3,3,7
+South Africa,6,1,4,9,2,4,7
+Pakistan,4,4,3,8,3,3,7
+England,5,3,3,8,3,5,4
+Australia,4,3,4,7,4,6,5
+Pakistan,4,4,3,8,3,3,7
+South Africa,6,1,4,8,3,4,6
+England,5,3,3,8,3,5,4
+New Zealand,4,3,4,8,3,6,5
+South Africa,6,1,4,8,3,4,6
+Australia,4,3,4,7,4,6,5
+Australia,4,3,4,7,4,6,5
+New Zealand,4,3,4,8,3,6,5
+New Zealand,4,3,4,8,3,6,5
+Australia,4,3,4,7,4,6,5
+Australia,4,3,4,7,4,6,5
+India,5,3,3,8,3,4,4
+Pakistan,5,4,2,8,3,3,6
+India,5,3,3,8,3,4,4
+Pakistan,5,4,2,7,4,3,6
+Pakistan,6,2,3,8,3,3,6
+Pakistan,6,3,2,9,2,3,6
+West Indies,4,5,2,8,3,6,3
+Australia,4,3,4,7,4,7,3
+India,5,1,5,8,3,5,3
+Australia,4,3,4,9,2,6,4
+Sri Lanka,3,4,4,8,3,5,5
+India,4,3,4,8,3,4,5
+India,3,3,5,8,3,4,6
+Afghanistan,5,5,1,9,2,3,6
+Australia,4,4,3,9,2,6,4
+Australia,4,3,4,6,5,6,5
+Australia,4,3,4,7,4,6,5
+South Africa,5,1,5,7,4,5,5
+Sri Lanka,3,5,3,8,3,4,6
+South Africa,5,1,5,8,3,5,6
+West Indies,4,4,3,5,6,6,4
+West Indies,5,3,3,6,5,7,2
+India,5,3,3,9,2,4,5
+West Indies,5,3,3,7,4,6,3
+Afghanistan,4,4,3,9,2,5,5
+India,5,2,4,9,2,5,4
+Afghanistan,4,4,3,9,2,5,5
+Sri Lanka,3,5,3,8,3,5,5
+Sri Lanka,3,5,3,8,3,5,5
+Pakistan,6,2,3,8,3,3,7
+Sri Lanka,3,5,3,8,3,5,5
+Pakistan,6,2,3,8,3,3,7
+Sri Lanka,3,5,3,9,2,5,5
+Australia,5,2,4,9,2,5,5
+England,5,4,2,5,6,6,5
+Pakistan,6,1,4,7,4,4,5
+India,6,2,3,9,2,4,4
+India,5,2,4,10,1,5,4
+India,6,2,3,8,3,4,4
+England,5,3,3,6,5,6,5
+Australia,4,3,4,7,4,6,5
+Pakistan,6,3,2,9,2,4,5
+New Zealand,5,2,4,7,4,5,5
+New Zealand,5,3,3,6,5,4,6
+Pakistan,6,3,2,9,2,4,5
+Pakistan,6,3,2,9,2,4,5
+England,4,5,2,7,4,6,4
+India,5,3,3,9,2,5,4
+Australia,4,3,4,6,5,6,5
+South Africa,6,0,5,6,5,5,5
+Sri Lanka,3,4,4,8,3,5,5
+England,4,5,2,7,4,6,4
+Pakistan,5,3,3,8,3,5,5
+Pakistan,5,3,3,8,3,5,5
+England,4,5,2,8,3,6,4
+England,4,5,2,8,3,6,4
